@@ -1,3 +1,4 @@
+/* eslint-disable import/no-anonymous-default-export */
 import './App.css'
 import React from 'react'
 
@@ -19,7 +20,7 @@ import Contador from './componets/Contador/Contador'
 import Mega from './componets/Mega/Mega'
 
 
-export default (props) =>
+export default (_props) =>
     <div id="app">
         <h1>Fundamentos React</h1>
         <div className="cards">
