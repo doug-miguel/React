@@ -1,0 +1,16 @@
+.mega label {
+    font-size: 1.4rem;
+    margin: 5px;
+}
+.mega input {
+    font-size: 1.4rem;
+    width: 80px;
+    text-align: center;
+}
+button{
+    margin: 5px;
+    padding: 5px;
+}
+h2 {
+    margin: 5px;
+}

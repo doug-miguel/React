@@ -1,0 +1,13 @@
+.tabelapreco table {
+    width: 100%;
+}
+.tabelapreco th {
+    background-color:#038888;
+    color: #fff;
+}
+.tabelapreco .par {
+    background-color:#ddd;
+}
+.tabelapreco .imp {
+    background-color:#ccc;
+}
